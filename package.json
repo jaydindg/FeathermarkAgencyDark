@@ -1,0 +1,21 @@
+{
+  "name": "feathermark-agency-dark",
+  "displayName": "Feathermark Agency Dark",
+  "description": "Feathermark Agency Dark Theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Feathermark Agency Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Feathermark Agency Dark-color-theme.json"
+      }
+    ]
+  }
+}
